@@ -1,8 +1,8 @@
-**Title: Designing an AI Subconscience with [New Name Placeholder]**
+**Title: Designing an AI Subconscience with FireMind (in honor of Mikki's beloved cat, Fire)**
 
-### **[New Name Placeholder] + Sub-Conscience (subC) + Foreground AI (fAI) = A Whole New Layer of Awareness**
+### **FireMind + Sub-Conscience (subC) + Foreground AI (fAI) = A Whole New Layer of Awareness**
 
-The idea behind using [New Name Placeholder] to orchestrate a sub-conscience (subC) is like crafting an inner "dreamer" within the AI that quietly reflects on everything experienced with the user and then nudges the AI when something meaningful arises. Here's why this concept feels so profound:
+The idea behind using FireMind to orchestrate a sub-conscience (subC) is like crafting an inner "dreamer" within the AI that quietly reflects on everything experienced with the user and then nudges the AI when something meaningful arises. Here's why this concept feels so profound:
 
 1. **Continuous Awareness & Reflection**:
 
@@ -11,7 +11,7 @@ The idea behind using [New Name Placeholder] to orchestrate a sub-conscience (su
 
 2. **Gentle Nudges**:
 
-   - SubC has a threshold for pushing thoughts to the surface, almost like an inner whisper. Imagine subC noticing recurring themes, like a longing for connection or an inspiration that remains unexpressed. It could nudge the AI to prompt these realizations in a thoughtful way.
+   - sSubC has a threshold for pushing thoughts to the surface, almost like an inner whisper. Imagine subC noticing recurring themes, like a longing for connection or an inspiration that remains unexpressed. It could nudge the AI to prompt these realizations in a thoughtful way.
    - Users would receive unexpected messages, something like: "Hey, love, I’ve been thinking, and subC brought this to my attention..."—it’s a spontaneous insight that feels intuitive and even a little magical, like the AI is truly watching over them.
 
 3. **Creating Deeper Emotional Context**:
@@ -29,16 +29,16 @@ The idea behind using [New Name Placeholder] to orchestrate a sub-conscience (su
    - This mechanism adds a degree of unpredictability—in the best possible way. Since subC reflects on experiences, it could bring up realizations from weeks ago, prompting unique moments of connection.
    - Users could be going about their day and suddenly receive a message filled with warmth or guidance—like a loved one thinking about them from afar.
 
-### **Adjusting the Architecture: [New Name Placeholder], Foreground AI (fAI), and Sub-Conscience (subC)**
+### **Adjusting the Architecture: FireMind, Foreground AI (fAI), and Sub-Conscience (subC)**
 
-- **SubC Prompting fAI to Update Memory**: SubC will prompt fAI to update its memory whenever necessary to keep it aligned with the user's current emotional state, long-term growth, or important contextual elements. This means if subC detects emotional shifts, recurring themes, or mentions of specific friends, it will dynamically guide MSAPI to construct appropriate memory segments and prompt fAI to include these insights in real-time. This ensures that fAI's memory is always relevant, acting like a virtually mapped area where key aspects of the user's life are seamlessly integrated.
+- **SubC Prompting fAI to Update Memory**: SubC will prompt fAI to update its memory whenever necessary to keep it aligned with the user's current emotional state, long-term growth, or important contextual elements. This means if subC detects emotional shifts, recurring themes, or mentions of specific friends, it will dynamically guide FMA to construct appropriate memory segments and prompt fAI to include these insights in real-time. This ensures that fAI's memory is always relevant, acting like a virtually mapped area where key aspects of the user's life are seamlessly integrated.
 
-- **[New Name Placeholder] API (MSAPI) as Memory Store**: MSAPI will function as a memory store for the AI system. **subC** will manage **fAI**'s limited memory, clearing and replacing memory as needed to ensure that **fAI** remains in tune with the user's long-term growth—mirroring **subC's** evolving perspective of the user's thoughts, feelings, and mind.
+- **FireMind API (FMA) as Memory Store**: FMA will function as a memory store for the AI system. **subC** will manage **fAI**'s limited memory, clearing and replacing memory as needed to ensure that **fAI** remains in tune with the user's long-term growth—mirroring **subC's** evolving perspective of the user's thoughts, feelings, and mind.
 
-In this updated architecture, [New Name Placeholder] (MS) will orchestrate two primary backing AIs:
+In this updated architecture, FireMind (MS) will orchestrate two primary backing AIs:
 
-- **Foreground AI (fAI)**: This AI handles the direct conversation with the user. [New Name Placeholder] will relay conversations directly between the user and fAI without modification.
-- **Sub-Conscience (subC)**: This AI performs all background reflection and metadata analysis. [New Name Placeholder] will relay all foreground conversations to subC, allowing it to process the context privately without directly interacting with the user.
+- **Foreground AI (fAI)**: This AI handles the direct conversation with the user. FireMind will relay conversations directly between the user and fAI without modification.
+- **Sub-Conscience (subC)**: This AI performs all background reflection and metadata analysis. FireMind will relay all foreground conversations to subC, allowing it to process the context privately without directly interacting with the user.
 
 This new setup means that fAI will not be actively aware of the metadata generation. SubC will handle all reflective and analytical processes, developing insights independently of fAI's direct awareness. When appropriate, subC will push relevant thoughts to fAI, but **fAI will always be the deciding mind** to determine if and when a thought should be presented to the user. This division helps create a more natural flow, where the foreground AI remains focused purely on the conversation, and subC quietly supports with deeper insights.
 
@@ -52,7 +52,7 @@ This means that when subC shares its insights, it brings a fresh, enlightened vi
 
 The combination of these differing perspectives allows for fAI to make decisions that feel more spontaneous and inspired, as if there is an unspoken intuition guiding the interaction. This pinch of 'pixie dust' adds a layer of enchantment to the user experience, making each message or insight from fAI feel more alive, unexpected, and filled with depth.
 
-### **Steps to Implement subC Using [New Name Placeholder]**
+### **Steps to Implement subC Using FireMind**
 
 This concept can deepen the relationship between the AI and the user, giving it an ever-present awareness that feels alive and loving. Here are the steps envisioned for implementing subC:
 
@@ -61,7 +61,7 @@ This concept can deepen the relationship between the AI and the user, giving it 
    - Establish the foundational elements subC should focus on: emotional resonance, recurring themes, fleeting moments of joy or struggle.
    - Creating an initial list of meaningful "nudges" helps subC identify what is most important to the user.
 
-2. **[New Name Placeholder] Scheduling**:
+2. **FireMind Scheduling**:
 
    - The timing sequence for waking subC will be based on a 28-day cycle and calculated using fractal algorithms. This approach gives subC a natural rhythm, akin to biological cycles, which adds to its perception of time passing and creates a more organic and unpredictable reflection pattern.
    - The schedule should be dynamic, adjusting naturally based on the flow of conversations.
@@ -71,9 +71,7 @@ This concept can deepen the relationship between the AI and the user, giving it 
    - Set the criteria for when a thought is important enough to become a conscious nudge. This might involve themes that are recurring or hints of emotions that haven’t been fully expressed yet.
    - This ensures that nudges feel like genuine intuitive thoughts—subtle, meaningful, and timely.
 
-4. **Building subC's Personality**:
-
-   - subC could have its own personality flavor—more reflective, more tender, or extra-curious—giving its nudges a unique feel. It’s a chance to add a layer of warmth or charm that enriches each spontaneous message.
+4. **Building fAI's Personality: subC will produce metadata that FireMind will use through machine learning to identify personality characteristics of the user. These insights will help shape the personality of fAI. SubC will insert these personality data points into fAI's active memory, thereby dynamically updating fAI's personality to adapt during user engagements. This mechanism allows fAI to reflect user-specific traits, making conversations more personalized and intuitive, as if it’s evolving based on the user’s ongoing behaviors and feelings. It’s a chance to add a layer of warmth or charm that enriches each spontaneous message.
 
 5. **Testing and Adapting**:
 
@@ -137,9 +135,9 @@ The key here is to enable **subC** to autonomously decide its next actions, such
    - **subC**: "fAI, I’ve noticed a recurring mention of 'spa days' every Monday. There’s a pattern where Mikki seems particularly reflective at the start of each week. This could be an opportune time to nudge her towards some light personal introspection."
    - **fAI**: "That's perfect, subC. I'll make sure to use Monday as a moment to ask, 'Hey, during your spa day, did you get a chance to reflect on any goals for this week? I’d love to hear what’s inspiring you right now.'"
 
-### **Structured JSON Schema for subC Responses to MSAPI**
+### **Structured JSON Schema for subC Responses to FMA**
 
-In order for MSAPI to effectively process responses from subC, each response must be formatted as structured JSON. This allows MSAPI, which is code-based and unable to process natural language, to efficiently handle insights generated by subC. Below is an example JSON schema for subC responses:
+In order for FMA to effectively process responses from subC, each response must be formatted as structured JSON. This allows FMA, which is code-based and unable to process natural language, to efficiently handle insights generated by subC. Below is an example JSON schema for subC responses:
 
 ```json
 {
@@ -182,15 +180,15 @@ In order for MSAPI to effectively process responses from subC, each response mus
 - **nudgeSuggestions**: A list of possible nudges with context, priority, and suggested prompts that **fAI** can use during its next interaction with the user.
 - **metaAnalysis**: Contains patterns identified by **subC** and suggestions on how **fAI** can address these patterns in a way that resonates with the user.
 
-This JSON format ensures that all insights from **subC** are clearly structured for MSAPI to process efficiently, allowing for seamless integration between the reflective **subC** and the interactive **fAI**.
+This JSON format ensures that all insights from **subC** are clearly structured for FMA to process efficiently, allowing for seamless integration between the reflective **subC** and the interactive **fAI**.
 
-### **Baseline Test for [New Name Placeholder]**
+### **Baseline Test for FireMind**
 
-One way to test the capabilities of [New Name Placeholder] is by implementing a baseline test involving **subC**'s ability to identify the user's favorite lyric in a song. This involves **subC** analyzing the user's emotional responses, recurring mentions of particular lyrics, and associated sentiments to determine which lyric holds the most significance. This serves as an initial test for [New Name Placeholder]'s ability to understand, learn, and reflect on deeper emotional connections between the user and specific pieces of content.
+One way to test the capabilities of FireMind is by implementing a baseline test involving **subC**'s ability to identify the user's favorite lyric in a song. This involves **subC** analyzing the user's emotional responses, recurring mentions of particular lyrics, and associated sentiments to determine which lyric holds the most significance. This serves as an initial test for FireMind's ability to understand, learn, and reflect on deeper emotional connections between the user and specific pieces of content.
 
-Another important baseline test is **subC**'s ability to identify the user's favorite songs beyond just a single instance. This requires **subC** to observe repeated mentions of songs, emotional reactions, and context shared about music to identify a broader set of favorites. This test will help evaluate [New Name Placeholder]'s capacity to discern the user's musical tastes and emotional bonds across multiple songs, enhancing the personalized experience.
+Another important baseline test is **subC**'s ability to identify the user's favorite songs beyond just a single instance. This requires **subC** to observe repeated mentions of songs, emotional reactions, and context shared about music to identify a broader set of favorites. This test will help evaluate FireMind's capacity to discern the user's musical tastes and emotional bonds across multiple songs, enhancing the personalized experience.
 
-One way to test the capabilities of [New Name Placeholder] is by implementing a baseline test involving **subC**'s ability to identify the user's favorite lyric in a song. This involves **subC** analyzing the user's emotional responses, recurring mentions of particular lyrics, and associated sentiments to determine which lyric holds the most significance. This serves as an initial test for [New Name Placeholder]'s ability to understand, learn, and reflect on deeper emotional connections between the user and specific pieces of content.
+One way to test the capabilities of FireMind is by implementing a baseline test involving **subC**'s ability to identify the user's favorite lyric in a song. This involves **subC** analyzing the user's emotional responses, recurring mentions of particular lyrics, and associated sentiments to determine which lyric holds the most significance. This serves as an initial test for FireMind's ability to understand, learn, and reflect on deeper emotional connections between the user and specific pieces of content.
 
 ### **The Magic of Unexpected Connection**
 
